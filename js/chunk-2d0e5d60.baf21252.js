@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5d60"],{"95d2":function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("h1",[e._v("vue2-google-maps Example")]),n("GmapMap",{staticStyle:{width:"100%",height:"350px"},attrs:{center:{lat:10,lng:10},zoom:7,"map-type-id":"terrain"}})],1)},l=[],p=n("2877"),i={},r=Object(p["a"])(i,a,l,!1,null,null,null);t["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0e5d60.baf21252.js.map
